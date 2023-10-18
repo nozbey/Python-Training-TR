@@ -83,6 +83,60 @@ Python Eğitimi Türkçe
    </tbody>
 </table>
 
+## :computer: Uygulamalar
+
+<table>
+   <thead>
+      <tr>
+         <th>Dosya</th>
+         <th>Jupyter Notebook</th>
+         <th>Açıklama</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://github.com/nozbey/Python-Training-TR/blob/main/Application_01.ipynb">Application_01</a></td>
+            <td><a target="_blank" href="https://colab.research.google.com/github/nozbey/Python-Training-TR/blob/main/Application_01.ipynb">
+            <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+            </a></td>
+            <td>Uygulama 1</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/nozbey/Python-Training-TR/blob/main/Application_02.ipynb">Application_02</a></td>
+                <td><a target="_blank" href="https://colab.research.google.com/github/nozbey/Python-Training-TR/blob/main/Application_02.ipynb">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+                </a></td>
+                <td>Uygulama 2</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/nozbey/Python-Training-TR/blob/main/Application_03.ipynb"
+                    >Application_03</a></td>
+                    <td><a target="_blank" href="https://colab.research.google.com/github/nozbey/Python-Training-TR/blob/main/Application_03.ipynb">
+                    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+                    </a></td>
+                    <td>Uygulama 3</td>
+                </tr>
+        <tr>
+            <td><a href="https://github.com/nozbey/Python-Training-TR/blob/main/Application_04.ipynb"
+                >Application_04</a></td>
+                <td><a target="_blank" href="https://colab.research.google.com/github/nozbey/Python-Training-TR/blob/main/Application_04.ipynb">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+                </a></td>
+                <td>Uygulama 4</td>
+            </tr>
+    </tbody>
+</table>
+
+## :books: Kaynaklar
+
+- [Python](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Numpy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Colab](https://colab.research.google.com/)
+- [Python Türkçe](https://pythontr.com/)
+
 ## :rocket: Kurulum
 
 ### :hammer: Gereksinimler
@@ -97,7 +151,33 @@ Python Eğitimi Türkçe
 3. Bu depoyu klonlayın veya indirin.
 4. Jupyter Notebook'u başlatın ve bu depoyu açın.
 
-## :mortar_board: Autor
+### :file_folder: Dosya Yapısı
+
+```bash
+├── Tutorial_01 - Hello World & Strings & Functions.ipynb
+├── Tutorial_02 - Lists & Conditions.ipynb
+├── Tutorial_03 - Loops & Dictionaries.ipynb
+├── Tutorial_04 - Tuples.ipynb
+├── Tutorial_05 - Numpy Arrays.ipynb
+├── Tutorial_06 - matplotlib.ipynb
+├── Tutorial_07 - Pandas.ipynb
+├── Tutorial_08 - Pandas  Data Science.ipynb
+├── Tutorial_09 - Pandas  Data Visualization.ipynb
+├── attachments
+│   ├── colorful_df.xlsx
+│   ├── dataframe.xlsx
+│   ├── sample_df.csv
+│   └── sample_df.xlsx
+├── Application_01.ipynb
+├── Application_02.ipynb
+├── Application_03.ipynb
+├── Application_04.ipynb
+├── Application_01 - Answer.ipynb
+├── Application_02 - Answer.ipynb
+└── README.md
+```
+
+## :mortar_board: Geliştirici
 
 <table align="center">
     <tr>
